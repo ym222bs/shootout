@@ -42,7 +42,7 @@ function test_lists()
 }
 
 var n = arguments[0];
-var resultl
+var result
 
 while( n-- )
   result = test_lists();
